@@ -186,6 +186,7 @@ nav .nav-elements a span {
     font-size: 15px;
     border: 1px solid #888585;
     border-radius: 3px;
+    -webkit-appearance: none;
 }
 
 .editSection .file::file-selector-button {
